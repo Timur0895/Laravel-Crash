@@ -1,6 +1,6 @@
 #  Laravel-Crash
 
-This is a Laravel crash course that covers installation, authentication, routes, data, pagination, email functionality and much more
+This is a Laravel crash project that covers installation, authentication, routes, data, pagination, email functionality and much more
 
 ## Links mentioned in project:
 #### Composer - https://getcomposer.org/
